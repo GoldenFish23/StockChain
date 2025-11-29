@@ -1,2 +1,2 @@
 # StockChain
-An AI ecosystem that can read the news and update the graphical connections of companies to see the impact of news all over.
+An AI ecosystem that can read the news and update the graphical connections of companies and propogates the update like forward propagations. Calculates the impact at epi-center (main company) and propagates all response to the connected one.
